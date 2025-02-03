@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "homepage": "https://your-username.github.io/your-repo-name",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
